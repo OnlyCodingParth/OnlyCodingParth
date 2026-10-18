@@ -1,131 +1,242 @@
-<!-- ==================== HEADER ==================== -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                     PARTH GAVALI                              -->
+<!--              THE NEXT CHAPTER IS BEING BUILT                  -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&customColorList=12,20,24&section=header" width="100%" alt="Gradient Header" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:020617,50:0B1120,100:111827&text=PARTH%20GAVALI&fontColor=E2E8F0&fontSize=55&fontAlignY=45&stroke=38BDF8&strokeWidth=1&animation=fadeIn"
+    width="100%"
+    alt="Parth Gavali"
+  />
 
-<h1>PARTH GAVALI</h1>
+  <br/>
 
-<h3>Exploring AI, ML & Data Science</h3>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=17&duration=3500&pause=1200&color=60A5FA&center=true&vCenter=true&width=650&height=45&lines=EXPLORING+ARTIFICIAL+INTELLIGENCE;LEARNING+MACHINE+LEARNING;BUILDING+WITH+PYTHON;CURIOUS+ABOUT+WHAT+COMES+NEXT"
+    alt="Animated Introduction"
+  />
 
-<p>
-  Computer Science Engineering Student<br/>
-  Sharad Institute of Technology College of Engineering
-</p>
+  <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&height=50&lines=Learning+Python;Exploring+Artificial+Intelligence;Interested+in+Machine+Learning;Building+My+Future+in+AI" alt="Typing Animation" />
+  <sub>COMPUTER SCIENCE ENGINEERING STUDENT</sub>
+
+  <br/>
+
+  <sub>Sharad Institute of Technology College of Engineering</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:020617"
+    width="75%"
+    alt=""
+  />
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                             -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+  <h2>TECHNOLOGY & TOOLS</h2>
+
+  <sub>THE TOOLS BEHIND THE LEARNING PROCESS</sub>
+
+  <br/><br/><br/>
+
+  <sub>01 / PROGRAMMING</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=c,python,js&theme=dark"
+    alt="C Python JavaScript"
+  />
+
+  <br/><br/><br/>
+
+  <sub>02 / WEB DEVELOPMENT</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark"
+    alt="HTML CSS Tailwind"
+  />
+
+  <br/><br/><br/>
+
+  <sub>03 / DEVELOPMENT ENVIRONMENT</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"
+    alt="Git GitHub VS Code"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/JUPYTER_NOTEBOOK-0B1120?style=for-the-badge&logo=jupyter&logoColor=F37626"
+    alt="Jupyter Notebook"
+  />
+
+  <br/><br/><br/>
+
+  <sub>04 / DEPLOYMENT & HOSTING</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=vercel&theme=dark"
+    alt="Vercel"
+  />
+
+  <br/><br/>
+
+  <img
+    src="https://img.shields.io/badge/RENDER-0B1120?style=for-the-badge&logo=render&logoColor=46E3B7"
+    alt="Render"
+  />
+
+  <img
+    src="https://img.shields.io/badge/GITHUB_PAGES-0B1120?style=for-the-badge&logo=githubpages&logoColor=FFFFFF"
+    alt="GitHub Pages"
+  />
+
+  <br/><br/><br/>
+
+  <sub>05 / TECHNOLOGIES EXPLORED</sub>
+
+  <br/><br/>
+
+  <img
+    src="https://skillicons.dev/icons?i=react,ts,fastapi,flask&theme=dark"
+    alt="React TypeScript FastAPI Flask"
+  />
+
+</div>
 
 <br/><br/>
 
-</div>
-
-<!-- ==================== TECH STACK ==================== -->
-
-<h2 align="center">⚡ Tech Stack</h2>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CURRENT DIRECTION                       -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<h3>Programming Languages</h3>
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:020617"
+    width="75%"
+    alt=""
+  />
 
-<img src="https://skillicons.dev/icons?i=c,python,js&theme=dark" alt="C, Python, JavaScript" />
+  <br/><br/>
 
-<h3>Frontend Development</h3>
+  <h2>CURRENT DIRECTION</h2>
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind&theme=dark" alt="HTML, CSS, Tailwind CSS" />
+  <sub>LEARNING TODAY. BUILDING FOR TOMORROW.</sub>
 
-<h3>Development Tools</h3>
+  <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git, GitHub, VS Code" />
+  <p>
+    Python Programming<br/>
+    Mathematics for Machine Learning<br/>
+    Data Structures & Algorithms<br/>
+    NumPy & Pandas<br/>
+    Artificial Intelligence & Machine Learning Fundamentals
+  </p>
+
+</div>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Jupyter%20Notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=F37626" alt="Jupyter Notebook" />
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                       CERTIFICATIONS                          -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
-<h3>Deployment & Hosting</h3>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel&theme=dark" alt="Vercel" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:020617"
+    width="75%"
+    alt=""
+  />
+
+  <br/><br/>
+
+  <h2>CERTIFICATIONS</h2>
+
+  <sub>MILESTONES ALONG THE WAY</sub>
+
+  <br/><br/>
+
+  <p>
+    <b>NPTEL</b><br/>
+    Introduction to Python for Data Science
+  </p>
+
+  <br/>
+
+  <p>
+    <b>BE10X</b><br/>
+    AI Tools & ChatGPT Workshop
+  </p>
+
+  <br/>
+
+  <p>
+    <b>THETECHUNIQUE ACADEMY</b><br/>
+    Cyber Security Workshop
+  </p>
+
+  <br/>
+
+  <sub>PARTICIPATION</sub>
+
+  <br/><br/>
+
+  <p>
+    Bharatiya Antariksh Hackathon 2026<br/>
+    Music Night
+  </p>
+
+</div>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Render-0D1117?style=for-the-badge&logo=render&logoColor=46E3B7" alt="Render" />
-<img src="https://img.shields.io/badge/GitHub%20Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=FFFFFF" alt="GitHub Pages" />
-
-<h3>Technologies Explored</h3>
-
-<img src="https://skillicons.dev/icons?i=react,ts,fastapi,flask&theme=dark" alt="React, TypeScript, FastAPI, Flask" />
-
-</div>
-
-<br/>
-
-<!-- ==================== CURRENTLY LEARNING ==================== -->
-
-<h2 align="center">📚 Currently Learning</h2>
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-Python Programming<br/>
-Mathematics for Machine Learning<br/>
-NumPy & Pandas<br/>
-Data Structures & Algorithms<br/>
-Machine Learning Fundamentals
+  <img
+    src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020617,50:38BDF8,100:020617"
+    width="75%"
+    alt=""
+  />
 
-</div>
+  <br/><br/>
 
-<br/>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=15&duration=4000&pause=2000&color=94A3B8&center=true&vCenter=true&width=600&height=40&lines=KEEP+LEARNING.;KEEP+BUILDING.;KEEP+EXPLORING."
+    alt="Keep Learning Keep Building Keep Exploring"
+  />
 
-<!-- ==================== CURRENT FOCUS ==================== -->
+  <br/>
 
-<h2 align="center">🎯 Current Focus</h2>
-
-<div align="center">
-
-Strengthening Programming Fundamentals<br/>
-Learning Python for AI & Machine Learning<br/>
-Building Practical Projects
-
-</div>
-
-<br/>
-
-<!-- ==================== CERTIFICATIONS ==================== -->
-
-<h2 align="center">🏆 Certifications</h2>
-
-<div align="center">
-
-**NPTEL** — Introduction to Python for Data Science
-
-**Be10x** — AI Tools & ChatGPT Workshop
-
-**Thetechunique Academy** — Cyber Security Workshop
-
-</div>
-
-<br/>
-
-<!-- ==================== PARTICIPATION ==================== -->
-
-<h2 align="center">🎖️ Participation</h2>
-
-<div align="center">
-
-Bharatiya Antariksh Hackathon 2026
-
-Music Night
-
-</div>
-
-<br/>
-
-<!-- ==================== FOOTER ==================== -->
-
-<div align="center">
-
-<i>Keep Learning. Keep Building. Keep Exploring.</i>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=gradient&customColorList=12,20,24&section=footer" width="100%" alt="Gradient Footer" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:020617,50:1E3A8A,100:312E81&section=footer"
+    width="100%"
+    alt="Cinematic Footer"
+  />
 
 </div>
