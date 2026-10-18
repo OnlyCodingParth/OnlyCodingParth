@@ -30,7 +30,7 @@
     <img alt="Animated introduction: Hello, I'm Parth Gavali" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hello%2C+I%27m+Parth+Gavali;Computer+Science+Engineering+Student;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Python+%26+Data+Science+Enthusiast;Building+Projects%2C+One+Step+at+a+Time" />
   </a>
   <br/>
-  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=OnlyCodingParth&label=Profile%20Views&color=58A6FF&labelColor=020617&style=flat-square" />
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=OnlyCodingParth&label=Profile%20Views&color=blueviolet&style=flat-square" />
 </div>
 
 <br/>
