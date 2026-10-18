@@ -18,25 +18,11 @@
 
 <!-- ==================== 01. HEADER ==================== -->
 
-<!-- HEADER-TEXT-FALLBACK:START (delete this block when you enable the custom header image) -->
 <div align="center">
-
-# PARTH GAVALI
-
-**Exploring AI, ML &amp; Data Science**
-
-Computer Science Engineering Student · Sharad Institute of Technology College of Engineering
-
+  <img src="assets/header/github-header.png" alt="Parth Gavali - AI and ML" width="100%">
 </div>
-<!-- HEADER-TEXT-FALLBACK:END -->
 
-<!-- Custom header image (1600 x 450). Upload assets/header/github-header.png first, then delete the two ENABLE lines. -->
-<!-- ENABLE-HEADER-IMAGE
-<div align="center">
-  <img src="assets/header/github-header.png" width="100%" alt="PARTH GAVALI - Exploring AI, ML &amp; Data Science" />
-</div>
-ENABLE-HEADER-IMAGE-END -->
-
+<br/>
 <!-- ==================== 02. ANIMATED INTRODUCTION ==================== -->
 
 <div align="center">
@@ -144,16 +130,16 @@ ENABLE-SNAKE-END -->
 
 ## Featured Projects
 
-> #### 01 · Infinity Guide
+> #### 01 Â· Infinity Guide
 > <img alt="HTML" src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=58A6FF" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=A371F7" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=22D3EE" />
 >
 > An educational programming website focused on helping students learn programming concepts.
 >
-> [Repository](https://github.com/OnlyCodingParth/Infinity-Guide) · [Live Demo](https://onlycodingparth.github.io/Infinity-Guide/)
+> [Repository](https://github.com/OnlyCodingParth/Infinity-Guide) Â· [Live Demo](https://onlycodingparth.github.io/Infinity-Guide/)
 
 <!-- ENABLE: <img src="assets/projects/infinity-guide.png" width="100%" alt="Infinity Guide project banner" /> -->
 
-> #### 02 · C Programming
+> #### 02 Â· C Programming
 > <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF" />
 >
 > A structured collection of C programming programs and learning materials.
@@ -162,7 +148,7 @@ ENABLE-SNAKE-END -->
 
 <!-- ENABLE: <img src="assets/projects/c-programming.png" width="100%" alt="C Programming project banner" /> -->
 
-> #### 03 · Data Structures and Algorithms
+> #### 03 Â· Data Structures and Algorithms
 > <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF" /> <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" /> <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
 >
 > A collection of Data Structures and Algorithms programs implemented in C.
@@ -171,7 +157,7 @@ ENABLE-SNAKE-END -->
 
 <!-- ENABLE: <img src="assets/projects/dsa-in-c.png" width="100%" alt="Data Structures and Algorithms project banner" /> -->
 
-> #### 04 · Agriculture Notes
+> #### 04 Â· Agriculture Notes
 > <img alt="Academic notes" src="https://img.shields.io/badge/Academic%20Notes-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
 >
 > Organized academic agriculture notes and study materials.
@@ -188,25 +174,25 @@ ENABLE-SNAKE-END -->
 
 ### Course and Workshop Certificates
 
-> #### NPTEL · Python for Data Science
-> **Type:** Course Certificate · **Duration:** 4 weeks · **Period:** July to August 2026 · **Final score:** 54%
+> #### NPTEL Â· Python for Data Science
+> **Type:** Course Certificate Â· **Duration:** 4 weeks Â· **Period:** July to August 2026 Â· **Final score:** 54%
 
 <!-- ENABLE: <img src="assets/certifications/01-nptel.png" width="70%" alt="NPTEL Python for Data Science course certificate" /> -->
 
-> #### Be10x · AI Tools and ChatGPT Workshop
-> **Type:** Certificate of Completion · **Date:** 26 April 2026
+> #### Be10x Â· AI Tools and ChatGPT Workshop
+> **Type:** Certificate of Completion Â· **Date:** 26 April 2026
 
 <!-- ENABLE: <img src="assets/certifications/02-be10x.png" width="70%" alt="Be10x AI Tools and ChatGPT Workshop certificate" /> -->
 
 > #### Cyber Security Workshop
-> **Organization:** Thetechunique Academy · **Powered by:** TTU Security Pvt. Ltd. · **Date:** 29 May 2026 · **Duration:** 2 hours · **Type:** Certificate of Appreciation
+> **Organization:** Thetechunique Academy Â· **Powered by:** TTU Security Pvt. Ltd. Â· **Date:** 29 May 2026 Â· **Duration:** 2 hours Â· **Type:** Certificate of Appreciation
 
 <!-- ENABLE: <img src="assets/certifications/04-cyber-security.png" width="70%" alt="Cyber Security Workshop certificate of appreciation" /> -->
 
 ### Participation Records
 
 > #### Bharatiya Antariksh Hackathon 2026
-> **Presented by:** ISRO · **Powered by:** Hack2skill · **Type:** Certificate of Participation
+> **Presented by:** ISRO Â· **Powered by:** Hack2skill Â· **Type:** Certificate of Participation
 > Successful idea submission and participation.
 
 <!-- ENABLE: <img src="assets/certifications/03-isro-hackathon.png" width="70%" alt="Bharatiya Antariksh Hackathon 2026 certificate of participation" /> -->
