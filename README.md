@@ -1,44 +1,56 @@
- <!-- ============================================================
-     HEADER: futuristic animated banner (Capsule Render)
-     ============================================================ -->
-<!-- ==================== HEADER ==================== -->
+<!--
+  PROFILE README: Parth Gavali (OnlyCodingParth)
+  Theme "Midnight AI": #020617 background, #58A6FF blue, #A371F7 purple, #22D3EE cyan, #C9D1D9 text.
 
+  Third-party services used (the README stays readable if any of them is down):
+    - readme-typing-svg.demolab.com ........ typing animation
+    - komarev.com .......................... profile view counter
+    - skillicons.dev ....................... technology icons
+    - img.shields.io ....................... badges
+    - github-readme-stats.vercel.app ....... statistics + top languages cards
+    - streak-stats.demolab.com ............. contribution streak card
+    - github-readme-activity-graph.vercel.app activity graph
+    - Platane/snk (GitHub Action in this repo) contribution snake (switched off until the workflow has run)
+
+  Switching things on: blocks wrapped in "ENABLE-..." markers are hidden until you delete the marker lines.
+  See docs/ASSET-GUIDE.md for the full, step-by-step instructions.
+-->
+
+<!-- ==================== 01. HEADER ==================== -->
+
+<!-- HEADER-TEXT-FALLBACK:START (delete this block when you enable the custom header image) -->
 <div align="center">
 
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=PARTH%20GAVALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=58&descSize=18"
-    width="100%"
-    alt="Parth Gavali - AI and Machine Learning"
-  />
+# PARTH GAVALI
+
+**Exploring AI, ML &amp; Data Science**
+
+Computer Science Engineering Student · Sharad Institute of Technology College of Engineering
 
 </div>
+<!-- HEADER-TEXT-FALLBACK:END -->
 
-<!-- ============================================================
-     ANIMATED INTRODUCTION (Readme Typing SVG)
-     ============================================================ -->
+<!-- Custom header image (1600 x 450). Upload assets/header/github-header.png first, then delete the two ENABLE lines. -->
+<!-- ENABLE-HEADER-IMAGE
+<div align="center">
+  <img src="assets/header/github-header.png" width="100%" alt="PARTH GAVALI - Exploring AI, ML &amp; Data Science" />
+</div>
+ENABLE-HEADER-IMAGE-END -->
+
+<!-- ==================== 02. ANIMATED INTRODUCTION ==================== -->
+
 <div align="center">
   <a href="https://github.com/OnlyCodingParth">
     <img alt="Animated introduction: Hello, I'm Parth Gavali" src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Hello%2C+I%27m+Parth+Gavali;Computer+Science+Engineering+Student;Exploring+Artificial+Intelligence;Learning+Machine+Learning;Python+%26+Data+Science+Enthusiast;Building+Projects%2C+One+Step+at+a+Time" />
   </a>
-</div>
-
-<!-- ============================================================
-     PROFILE VIEWS (Komarev)
-     ============================================================ -->
-<div align="center">
-
-  <img
-    src="https://komarev.com/ghpvc/?username=OnlyCodingParth&color=blue&style=flat-square"
-    alt="GitHub Profile Views"
-  />
-
+  <br/>
+  <img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=OnlyCodingParth&label=Profile%20Views&color=58A6FF&labelColor=020617&style=flat-square" />
 </div>
 
 <br/>
 
-<!-- ============================================================
-     ABOUT ME
-     ============================================================ -->
+<!-- ==================== 03. ABOUT ME ==================== -->
+
 ## About Me
 
 I'm a Computer Science Engineering student at **Sharad Institute of Technology College of Engineering**, with a growing interest in **Artificial Intelligence, Machine Learning and Data Science**.
@@ -46,39 +58,36 @@ I'm a Computer Science Engineering student at **Sharad Institute of Technology C
 - Learning Python and strengthening my programming fundamentals
 - Practicing Data Structures and Algorithms
 - Building academic and personal projects
-- Exploring modern technologies, including frontend development and web UI/UX as a secondary interest
+- Exploring modern technologies, with frontend development and web UI/UX as a secondary interest
 
-<br/>
+<!-- ==================== 04. TECHNOLOGY STACK ==================== -->
 
-<!-- ============================================================
-     TECHNOLOGY STACK
-     ============================================================ -->
 ## Technology Stack
 
-**Programming Languages**
+**Currently Using**
 
-<img alt="Python, C, HTML, CSS, JavaScript" src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" />
-
-**Development Tools**
-
-<img alt="Git, GitHub, Visual Studio Code" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
-<img alt="Jupyter Notebook" height="48" src="https://img.shields.io/badge/Jupyter%20Notebook-020617?style=for-the-badge&logo=jupyter&logoColor=A371F7" />
-
-**Frontend Interests** *(exploring, not yet primary)*
-
-<img alt="React, TypeScript, Tailwind CSS" src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" />
-
+<img alt="Python, C, HTML, CSS and JavaScript" src="https://skillicons.dev/icons?i=python,c,html,css,js&theme=dark" />
 <br/>
+<img alt="Git, GitHub and Visual Studio Code" src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+<img alt="Jupyter Notebook" height="48" src="https://img.shields.io/badge/Jupyter%20Notebook-0D1117?style=for-the-badge&logo=jupyter&logoColor=A371F7" />
 
-<!-- ============================================================
-     CURRENTLY LEARNING
-     ============================================================ -->
+**AI / ML Learning Path: Currently Learning**
+
+<img alt="NumPy, Pandas and Scikit-learn" src="https://skillicons.dev/icons?i=numpy,pandas,sklearn&theme=dark" />
+
+**Future Learning Goals**
+
+<img alt="TensorFlow and PyTorch" src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/>
+<sub>Deep Learning frameworks. I have not started these yet.</sub>
+
+**Frontend Interests** (secondary)
+
+<img alt="React, TypeScript and Tailwind CSS" src="https://skillicons.dev/icons?i=react,ts,tailwind&theme=dark" />
+
+<!-- ==================== 05. CURRENTLY LEARNING ==================== -->
+
 ## Currently Learning
-
-<img alt="NumPy, Pandas, Scikit-learn, TensorFlow, PyTorch" src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,pytorch&theme=dark" />
-
-<img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-020617?style=for-the-badge&labelColor=020617&color=58A6FF" />
-<img alt="Artificial Intelligence" src="https://img.shields.io/badge/Artificial%20Intelligence-020617?style=for-the-badge&labelColor=020617&color=A371F7" />
 
 - Python programming
 - Mathematics for Machine Learning
@@ -86,47 +95,40 @@ I'm a Computer Science Engineering student at **Sharad Institute of Technology C
 - Data Structures and Algorithms
 - Machine Learning fundamentals
 
-<sub>Deep Learning (TensorFlow / PyTorch) is a future goal. These are tools I am exploring, not claims of expertise.</sub>
+<!-- ==================== 06. GITHUB STATISTICS ==================== -->
 
-<br/>
-
-<!-- ============================================================
-     GITHUB STATISTICS (github-readme-stats)
-     ============================================================ -->
 ## GitHub Statistics
 
 <div align="center">
-  <img width="49%" alt="GitHub statistics for OnlyCodingParth" src="https://github-readme-stats.vercel.app/api?username=OnlyCodingParth&show_icons=true&hide_border=true&bg_color=020617&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-  <img width="49%" alt="Most used languages by repository code size" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyCodingParth&layout=compact&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9" />
+  <img alt="GitHub statistics card for OnlyCodingParth" src="https://github-readme-stats.vercel.app/api?username=OnlyCodingParth&show_icons=true&hide_border=true&bg_color=020617&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&count_private=true" />
+  <img alt="Most used languages card for OnlyCodingParth" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnlyCodingParth&layout=compact&langs_count=6&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9" />
 </div>
 
-<sub>The language card shows how much code appears in my public repositories. It is not a measure of proficiency.</sub>
+<sub>The languages card shows how much code appears in my public repositories. It is not a measure of skill.</sub>
 
-<!-- ============================================================
-     CONTRIBUTION STREAK (streak-stats)
-     ============================================================ -->
+<sub>**Commits and contributions are different metrics.** GitHub's contribution calendar also counts pull requests, issues and reviews, so these cards can show different numbers from each other. The figures come from third-party services. If a card fails to load or looks off, my [GitHub profile](https://github.com/OnlyCodingParth) shows the official contribution calendar.</sub>
+
+<!-- ==================== 07. CONTRIBUTION STREAK ==================== -->
+
 ## Contribution Streak
 
 <div align="center">
-  <img width="80%" alt="GitHub contribution streak for OnlyCodingParth" src="https://streak-stats.demolab.com?user=OnlyCodingParth&hide_border=true&background=020617&ring=A371F7&fire=22D3EE&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" />
+  <img alt="GitHub contribution streak for OnlyCodingParth" src="https://streak-stats.demolab.com?user=OnlyCodingParth&hide_border=true&background=020617&ring=A371F7&fire=22D3EE&currStreakNum=C9D1D9&currStreakLabel=58A6FF&sideNums=C9D1D9&sideLabels=58A6FF&dates=8B949E" />
 </div>
 
-<!-- ============================================================
-     GITHUB ACTIVITY GRAPH
-     ============================================================ -->
+<!-- ==================== 08. ACTIVITY GRAPH ==================== -->
+
 ## Activity Graph
 
 <div align="center">
   <img width="100%" alt="GitHub activity graph for OnlyCodingParth" src="https://github-readme-activity-graph.vercel.app/graph?username=OnlyCodingParth&bg_color=020617&color=58A6FF&line=A371F7&point=22D3EE&area=true&area_color=A371F7&hide_border=true" />
 </div>
 
-<br/>
-
-<!-- ============================================================
-     ANIMATED CONTRIBUTION SNAKE (Platane/snk)
-     Requires the workflow in .github/workflows/snake.yml.
-     Images appear only after the workflow has run once.
-     ============================================================ -->
+<!-- ==================== 09. CONTRIBUTION SNAKE ====================
+     Switched off on purpose: the images only exist after .github/workflows/snake.yml has run once.
+     To enable: run the workflow, confirm the "output" branch has the SVGs, then delete the two ENABLE lines.
+     Instructions: docs/ASSET-GUIDE.md, section 7. -->
+<!-- ENABLE-SNAKE
 ## Contribution Snake
 
 <div align="center">
@@ -136,85 +138,112 @@ I'm a Computer Science Engineering student at **Sharad Institute of Technology C
     <img width="100%" alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/OnlyCodingParth/OnlyCodingParth/output/github-snake.svg" />
   </picture>
 </div>
+ENABLE-SNAKE-END -->
 
-<br/>
+<!-- ==================== 10. FEATURED PROJECTS ==================== -->
 
-<!-- ============================================================
-     GITHUB TROPHIES (third-party, NOT official GitHub badges)
-     ============================================================ -->
-## Trophies
-
-<div align="center">
-  <img width="100%" alt="GitHub profile trophies (third-party graphics)" src="https://github-profile-trophy.vercel.app/?username=OnlyCodingParth&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4&margin-w=12" />
-</div>
-
-<sub>These trophies are generated by a third-party service. They are not official GitHub achievements.</sub>
-
-<br/>
-
-<!-- ============================================================
-     FEATURED PROJECTS
-     ============================================================ -->
 ## Featured Projects
 
-<div align="center">
-  <a href="https://github.com/OnlyCodingParth/Infinity-Guide">
-    <img width="48%" alt="Infinity Guide repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyCodingParth&repo=Infinity-Guide&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9&icon_color=A371F7" />
-  </a>
-  <a href="https://github.com/OnlyCodingParth/C-Programming">
-    <img width="48%" alt="C Programming repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyCodingParth&repo=C-Programming&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9&icon_color=A371F7" />
-  </a>
-  <a href="https://github.com/OnlyCodingParth/Data-structure-programs-with-algorithms-">
-    <img width="48%" alt="Data Structures and Algorithms repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyCodingParth&repo=Data-structure-programs-with-algorithms-&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9&icon_color=A371F7" />
-  </a>
-  <a href="https://github.com/OnlyCodingParth/Agriculture-Notes">
-    <img width="48%" alt="Agriculture Notes repository card" src="https://github-readme-stats.vercel.app/api/pin/?username=OnlyCodingParth&repo=Agriculture-Notes&hide_border=true&bg_color=020617&title_color=58A6FF&text_color=C9D1D9&icon_color=A371F7" />
-  </a>
-</div>
+> #### 01 · Infinity Guide
+> <img alt="HTML" src="https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=58A6FF" /> <img alt="CSS" src="https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=A371F7" /> <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=22D3EE" />
+>
+> An educational programming website focused on helping students learn programming concepts.
+>
+> [Repository](https://github.com/OnlyCodingParth/Infinity-Guide) · [Live Demo](https://onlycodingparth.github.io/Infinity-Guide/)
 
-<br/>
+<!-- ENABLE: <img src="assets/projects/infinity-guide.png" width="100%" alt="Infinity Guide project banner" /> -->
 
-- **[Infinity Guide](https://github.com/OnlyCodingParth/Infinity-Guide)** ([live site](https://onlycodingparth.github.io/Infinity-Guide/)): an educational programming website that helps students learn programming concepts.
-- **[C Programming](https://github.com/OnlyCodingParth/C-Programming)**: a structured collection of C programs and learning materials.
-- **[Data Structures and Algorithms](https://github.com/OnlyCodingParth/Data-structure-programs-with-algorithms-)**: Data Structures and Algorithms programs implemented in C.
-- **[Agriculture Notes](https://github.com/OnlyCodingParth/Agriculture-Notes)**: organized academic agriculture notes and study materials.
-- **Python Programming** *(in progress)*: a structured Python learning repository I am currently developing.
-<!-- OPTIONAL: when the Python repository is public, add its link above. -->
+> #### 02 · C Programming
+> <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF" />
+>
+> A structured collection of C programming programs and learning materials.
+>
+> [Repository](https://github.com/OnlyCodingParth/C-Programming)
 
-<br/>
+<!-- ENABLE: <img src="assets/projects/c-programming.png" width="100%" alt="C Programming project banner" /> -->
 
-<!-- ============================================================
-     CERTIFICATIONS
-     ============================================================ -->
+> #### 03 · Data Structures and Algorithms
+> <img alt="C" src="https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=58A6FF" /> <img alt="Data Structures" src="https://img.shields.io/badge/Data%20Structures-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" /> <img alt="Algorithms" src="https://img.shields.io/badge/Algorithms-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
+>
+> A collection of Data Structures and Algorithms programs implemented in C.
+>
+> [Repository](https://github.com/OnlyCodingParth/Data-structure-programs-with-algorithms-)
+
+<!-- ENABLE: <img src="assets/projects/dsa-in-c.png" width="100%" alt="Data Structures and Algorithms project banner" /> -->
+
+> #### 04 · Agriculture Notes
+> <img alt="Academic notes" src="https://img.shields.io/badge/Academic%20Notes-0D1117?style=flat-square&labelColor=0D1117&color=0D1117" />
+>
+> Organized academic agriculture notes and study materials.
+>
+> [Repository](https://github.com/OnlyCodingParth/Agriculture-Notes)
+
+<!-- ENABLE: <img src="assets/projects/agriculture-notes.png" width="100%" alt="Agriculture Notes project banner" /> -->
+
+**In progress:** a structured Python programming repository. I will link it here once it is public.
+
+<!-- ==================== 11. CERTIFICATIONS ==================== -->
+
 ## Certifications
 
-**NPTEL: Introduction to Python for Data Science**
-Four-week course, July to August 2026, covering Python fundamentals and their applications in Data Science.
-<!-- OPTIONAL: add your certificate link here, e.g. [View certificate](YOUR_CERTIFICATE_URL) -->
+### Course and Workshop Certificates
 
-<br/>
+> #### NPTEL · Python for Data Science
+> **Type:** Course Certificate · **Duration:** 4 weeks · **Period:** July to August 2026 · **Final score:** 54%
 
-<!-- ============================================================
-     CONNECT WITH ME (Shields.io)
-     ============================================================ -->
+<!-- ENABLE: <img src="assets/certifications/01-nptel.png" width="70%" alt="NPTEL Python for Data Science course certificate" /> -->
+
+> #### Be10x · AI Tools and ChatGPT Workshop
+> **Type:** Certificate of Completion · **Date:** 26 April 2026
+
+<!-- ENABLE: <img src="assets/certifications/02-be10x.png" width="70%" alt="Be10x AI Tools and ChatGPT Workshop certificate" /> -->
+
+> #### Cyber Security Workshop
+> **Organization:** Thetechunique Academy · **Powered by:** TTU Security Pvt. Ltd. · **Date:** 29 May 2026 · **Duration:** 2 hours · **Type:** Certificate of Appreciation
+
+<!-- ENABLE: <img src="assets/certifications/04-cyber-security.png" width="70%" alt="Cyber Security Workshop certificate of appreciation" /> -->
+
+### Participation Records
+
+> #### Bharatiya Antariksh Hackathon 2026
+> **Presented by:** ISRO · **Powered by:** Hack2skill · **Type:** Certificate of Participation
+> Successful idea submission and participation.
+
+<!-- ENABLE: <img src="assets/certifications/03-isro-hackathon.png" width="70%" alt="Bharatiya Antariksh Hackathon 2026 certificate of participation" /> -->
+
+> #### Music Night
+> **Type:** Certificate of Participation
+
+<!-- ENABLE: <img src="assets/certifications/05-music-night.png" width="70%" alt="Music Night certificate of participation" /> -->
+
+<!-- ==================== 12. CONNECT WITH ME ==================== -->
+
 ## Connect With Me
 
 <div align="center">
   <a href="https://github.com/OnlyCodingParth">
-    <img alt="GitHub profile" src="https://img.shields.io/badge/GitHub-OnlyCodingParth-020617?style=for-the-badge&labelColor=020617&color=58A6FF" />
+    <img alt="GitHub: OnlyCodingParth" src="https://img.shields.io/badge/GitHub-OnlyCodingParth-020617?style=for-the-badge&labelColor=020617&color=58A6FF" />
   </a>
   <a href="https://www.linkedin.com/in/parth-gavali-1a1871416/">
-    <img alt="LinkedIn profile" src="https://img.shields.io/badge/LinkedIn-Parth%20Gavali-020617?style=for-the-badge&labelColor=020617&color=A371F7" />
+    <img alt="LinkedIn: Parth Gavali" src="https://img.shields.io/badge/LinkedIn-Parth%20Gavali-020617?style=for-the-badge&labelColor=020617&color=A371F7" />
   </a>
 </div>
 
 <br/>
 
-<!-- ============================================================
-     FOOTER (Capsule Render, mirrors the header gradient)
-     ============================================================ -->
-<div align="center">
-  <i>Keep Learning. Keep Building. Keep Exploring.</i>
-</div>
+<!-- ==================== 13. FOOTER ==================== -->
 
-<img width="100%" alt="Footer wave in navy, blue and purple" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:58A6FF,100:A371F7&height=140&section=footer&reversal=true" />
+<!-- Custom footer image (recommended 1600 x 300). Upload assets/footer/github-footer.png first, then delete the two ENABLE lines. -->
+<!-- ENABLE-FOOTER-IMAGE
+<div align="center">
+  <img src="assets/footer/github-footer.png" width="100%" alt="Footer banner in dark navy with blue and purple lighting" />
+</div>
+ENABLE-FOOTER-IMAGE-END -->
+
+<!-- FOOTER-TEXT-FALLBACK:START (delete this block only if your footer image already contains this text) -->
+<div align="center">
+
+*Keep Learning. Keep Building. Keep Exploring.*
+
+</div>
+<!-- FOOTER-TEXT-FALLBACK:END -->
