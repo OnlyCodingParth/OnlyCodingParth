@@ -1,8 +1,16 @@
  <!-- ============================================================
      HEADER: futuristic animated banner (Capsule Render)
      ============================================================ -->
+<!-- ==================== HEADER ==================== -->
+
 <div align="center">
-  <img width="100%" alt="PARTH GAVALI - Exploring AI, ML and Data Science" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:58A6FF,100:A371F7&height=240&section=header&text=PARTH%20GAVALI&fontSize=58&fontColor=C9D1D9&fontAlignY=38&desc=Exploring%20AI%2C%20ML%20%26%20Data%20Science&descSize=20&descAlignY=60&animation=fadeIn" />
+
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&text=PARTH%20GAVALI&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Exploring%20AI%20%7C%20ML%20%7C%20Data%20Science&descAlignY=58&descSize=18"
+    width="100%"
+    alt="Parth Gavali - AI and Machine Learning"
+  />
+
 </div>
 
 <!-- ============================================================
@@ -18,7 +26,12 @@
      PROFILE VIEWS (Komarev)
      ============================================================ -->
 <div align="center">
-  <img alt="Profile views counter" src="https://komarev.com/ghpvc/?username=OnlyCodingParth&label=Profile%20Views&color=58A6FF&labelColor=020617&style=flat-square" />
+
+  <img
+    src="https://komarev.com/ghpvc/?username=OnlyCodingParth&color=blue&style=flat-square"
+    alt="GitHub Profile Views"
+  />
+
 </div>
 
 <br/>
